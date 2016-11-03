@@ -1,9 +1,9 @@
 # Site settings
-title: Food Objects
+title: Lastoblog
 email: kirill.lastovirya@gmail.com  
 description: > # 
-baseurl: "/food-objects/" # the subpath of your site, e.g. /blog/
-url: "http://kirhgoff.github.io" # gh-pages is production
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://lastoblog.github.io" # gh-pages is production
 twitter_username: kirhgoff
 github_username:  kirhgoff
 
