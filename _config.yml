@@ -1,13 +1,13 @@
 # Site settings
 title: Lastoblog
-email: kirill.lastovirya@gmail.com  
-description: > # 
+email: kirill.lastovirya@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Как мы переезжали в Австралию
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lastoblog.github.io" # gh-pages is production
+url: "http://lastoblog.github.io" # the base hostname & protocol for your site
 twitter_username: kirhgoff
 github_username:  kirhgoff
 
 # Build settings
-encoding: utf-8
-highlighter: pygments
-markdown: kramdown 
+markdown: kramdown
+permalink: pretty
