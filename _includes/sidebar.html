@@ -1,6 +1,11 @@
-<h3>Main</h3>
 <ul>
-  <li><a href="{{ '/index.html' | prepend: site.baseurl }}">Blog</a></li>  
+  <!--li><a href="{{ '/index.html' | prepend: site.baseurl }}">Blog</a></li-->
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  
 </ul>
 
 
