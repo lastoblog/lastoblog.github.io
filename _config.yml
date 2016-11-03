@@ -2,7 +2,7 @@
 title: Lastoblog
 email: kirill.lastovirya@gmail.com  
 description: > # 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lastoblog.github.io" # gh-pages is production
 twitter_username: kirhgoff
 github_username:  kirhgoff
