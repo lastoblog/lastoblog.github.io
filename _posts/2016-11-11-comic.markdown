@@ -2,7 +2,7 @@
 layout: post
 title:  "Джетлег, комиксы и Трой"
 date:   2016-11-11 13:28:00
-preview: /assets/comic_small.jpg
+preview: /assets/2016-11-11-comic-small.jpg
 ---
 
 ![Wheel](https://c7.staticflickr.com/6/5679/30792041102_f11fcc39b1_b.jpg)
